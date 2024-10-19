@@ -113,7 +113,7 @@ const PomodoroClock = () => {
 
         <div className="flex flex-col top-0 w-full h-screen justify-center  items-center absolute " >
 
-      <h1 className="text-4xl sm:text-[80px] md:text-[100px] font-bold mt-8 text-[#FFA500] mb-5  underline">Pomodoro Clock</h1>
+      <h1 className="text-4xl sm:text-[80px] md:text-[100px] font-bold mt-8 text-[#FFA500] mb-5  underline">POMODORO CLOCK</h1>
       <div className="mt-8">
         <Cycle isBreak={isBreak} time={time} formatTime={formatTime} />
         <div className="mt-4">
